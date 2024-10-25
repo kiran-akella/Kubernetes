@@ -1,4 +1,4 @@
-# Kubectl Cheat-Sheet
+# Kubectl commands Cheat-Sheet
 
 ## Contexts and Configuration
 
